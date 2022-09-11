@@ -16,8 +16,6 @@ they are building. Contributions and feedback are, as always, more than welcome.
 
 To add *Security Check* to your project's dependencies, add this to your project's `pubspec.yaml`:
 
-#### From *GitHub*
-
 ```YAML
 dependencies:
   ...
