@@ -4,7 +4,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4762761.svg)](https://doi.org/10.5281/zenodo.4762761)
 
-*A library to check whether your passwords are secure and strong.* :key:
+*A library to check whether your passwords are secure and strong. :key:* 
 
 ## About :books:
 
