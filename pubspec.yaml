@@ -1,6 +1,6 @@
 name: securitycheck
 description: A library to check whether your passwords are secure and strong.
-version: 1.2.0
+version: 1.2.1
 homepage: https://github.com/angeldollface/securitycheck
 environment:
   sdk: '>=2.12.0 <3.0.0'

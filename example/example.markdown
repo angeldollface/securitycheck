@@ -1,4 +1,4 @@
-# EXAMPLE FOR *SECURITY CHECK*
+# EXAMPLE FOR SECURITY CHECK
 
 Here's the example's `pubspec.yaml`:
 

@@ -17,3 +17,8 @@
 
 - Updated documentation.
 - Updated, published, and uploaded under my new name.
+
+## Version 1.2.1: Hotfix Update
+
+- Updated documentation.
+- Fixed a typo.
