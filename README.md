@@ -2,7 +2,7 @@
 
 [![GitHub CI](https://github.com/angeldollface/securitycheck/actions/workflows/dart.yml/badge.svg)](https://github.com/angeldollface/securitycheck/actions)
 
-*A library to check whether your passwords are secure and strong. :key:* 
+***A library to check whether your passwords are secure and strong. :key:*** 
 
 ## About :books:
 
